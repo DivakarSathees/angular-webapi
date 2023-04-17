@@ -18,7 +18,7 @@ import { EditComponent } from './edit/edit.component';
     ViewComponent,
     CreateComponent,
     EditComponent,
- F      
+    
   ],
   imports: [
     BrowserModule,
